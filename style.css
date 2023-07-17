@@ -1,0 +1,17 @@
+body{
+	font-family: Verdana;
+}
+
+.title{
+	text-align: center;
+}
+
+.headings{
+	background-color: red;
+}
+
+#lemonade{
+	width:75;
+	height:auto;
+	
+}
